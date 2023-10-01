@@ -9,4 +9,20 @@ Programming Language: Python
 
 Tools and Libraries:
 
-1. 
+1. Random Module: Utilized to generate random operands and operators for math problems.
+
+2. Time Module: Used to measure the time taken to solve each problem and calculate the total time.
+
+3. Eval Function: Employed to evaluate user-generated math expressions and determine the correctness of answers.
+
+4. String Formatting (f-strings): Implemented for clear and readable output messages.
+
+# Educational Benefits
+
+1. Promotes mathematical problem-solving skills.
+
+2. Encourages quick thinking and numerical fluency.
+
+3. Provides a fun and interactive learning experience.
+
+4. Offers immediate feedback to enhance understanding.
