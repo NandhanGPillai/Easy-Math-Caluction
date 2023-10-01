@@ -15,7 +15,8 @@ Tools and Libraries:
 
 3. Eval Function: Employed to evaluate user-generated math expressions and determine the correctness of answers.
 
-4. String Formatting (f-strings): Implemented for clear and readable output messages.
+4. Conditional Statements: Used to validate user answers and provide feedback for incorrect responses.
+
 
 # Educational Benefits
 
